@@ -24,7 +24,7 @@ Oleh:
 
 ## Arsitektur ANN
 
-<img alt="Arsitektur" src="">
+<img alt="Arsitektur" src="https://github.com/inQuacknito/MushroomClassification/blob/master/images/Arsitektur.jpg">
 <br><br>
 Arsitektur ini terdiri atas 4 layer dengan 22 node di layer input, 2 hidden layer dengan masing-masing node berjumlah 128 node dan 64 node, terakhir layer yang digunakan adalah output layer dengan 2 node.
 
@@ -43,11 +43,11 @@ Secara garis besar, tahapan implementasi yang dilakukan adalah sebagai berikut:
 
 ## Proses Genetic Algorithm
 
-<img alt="Proses Genetic Algorithm" src="">
+<img alt="Proses Genetic Algorithm" src="https://github.com/inQuacknito/MushroomClassification/blob/master/images/ProsesGeneticAlgorithm.jpg">
 
 ## Hasil
 
-<img alt="Error Rate Vs. Mutation Percent" src="">
+<img alt="Error Rate Vs. Mutation Percent" src="https://github.com/inQuacknito/MushroomClassification/blob/master/images/ErrorRateVsMutationPercent.jpg">
 
 - Percobaan terhadap perubahan nilai Mutation rate dari 10% - 90%
 - Nilai mutasi terbaik didapat ketika nilai Mutation rate 10%
