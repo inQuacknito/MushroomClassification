@@ -49,12 +49,12 @@ Secara garis besar, tahapan implementasi yang dilakukan adalah sebagai berikut:
 
 <img alt="Error Rate Vs. Mutation Percent" src="">
 <br><br>
-* Percobaan terhadap perubahan nilai Mutation rate dari 10% - 90%
-* Nilai mutasi terbaik didapat ketika nilai Mutation rate 10%
-* Semakin besar mutation-rate-nya, error-rate-nya cenderung lebih besar
-* terdapat dua nilai yang mengalami penurunan error rate :
-  - Mutation rate 30% ke 40%
-  - Mutation rate 70% ke 80%
+- Percobaan terhadap perubahan nilai Mutation rate dari 10% - 90%
+- Nilai mutasi terbaik didapat ketika nilai Mutation rate 10%
+- Semakin besar mutation-rate-nya, error-rate-nya cenderung lebih besar
+- terdapat dua nilai yang mengalami penurunan error rate :
+  * Mutation rate 30% ke 40%
+  * Mutation rate 70% ke 80%
 
 
 ## Kesimpulan
